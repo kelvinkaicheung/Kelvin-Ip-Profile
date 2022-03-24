@@ -1,4 +1,4 @@
-To view the website in live, <a src="https://epicstreets.com">click here.</a>
+To view the website in live, <a href="https://epicstreets.com">click here.</a>
 
 This website employed nextjs with mysql database as the backend.
 
