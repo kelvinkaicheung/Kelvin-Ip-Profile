@@ -1,4 +1,7 @@
 # Kelvin-Ip-Profile
+
+Skill set: React(nextjs), React Native, Firebase, Mysql, Bootstrap, javascript, html ,css, native android
+
 # epicstreets.com
 A quarter of a year project using React (Next.js), Mysql. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/bc61970cdcc5e0a4ab9276d653551d69c629fc4c/epicstreets.md"> here </a>.
 
