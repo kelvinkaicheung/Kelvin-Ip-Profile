@@ -10,5 +10,5 @@ A promotional static page is included, view it <a href="https://unlockmeweb.web.
 With instant chat function using firebase.
 <div>
 <img src="/unlockme3.gif" />
-<img src="/unlockme4.png" />
+<img src="/unlockme4.png" width="350"/>
 </div>
