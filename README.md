@@ -14,10 +14,10 @@ Skill set: React(nextjs), React Native, Firebase, Mysql, Bootstrap, javascript, 
 </div>
 
 # epicstreets.com
-A quarter of a year project using React (Next.js), Mysql. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/bc61970cdcc5e0a4ab9276d653551d69c629fc4c/epicstreets.md"> here </a>.
+A medium-sized project using React (Next.js), Mysql. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/bc61970cdcc5e0a4ab9276d653551d69c629fc4c/epicstreets.md"> here </a>.
 
 # websummer.co.uk
-A 2 weeks project using Bootstrap and native javascript. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/edd7866c6fbb4f0acba6b4434b6771a9fc98dfe7/websummer.md"> here </a>.
+A 3 weeks project using Bootstrap and native javascript. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/edd7866c6fbb4f0acba6b4434b6771a9fc98dfe7/websummer.md"> here </a>.
 
 # HKTutoring
 A combination of android app and website using android studio, native javascript and firebase. Fully functional and commercialised. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/edd7866c6fbb4f0acba6b4434b6771a9fc98dfe7/HKTutoring.md">here</a>.
