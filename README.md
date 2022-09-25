@@ -20,7 +20,7 @@ A medium-sized project using React (Next.js), Mysql. Check it out <a href="https
 A 3 weeks project using Bootstrap and native javascript. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/edd7866c6fbb4f0acba6b4434b6771a9fc98dfe7/websummer.md"> here </a>.
 
 # HKTutoring
-A combination of android app and website using android studio, native javascript and firebase. Fully functional and commercialised. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/edd7866c6fbb4f0acba6b4434b6771a9fc98dfe7/HKTutoring.md">here</a>.
+A combination of android app and website using android studio, native javascript, react, nodejs and firebase. Fully functional and commercialised. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/edd7866c6fbb4f0acba6b4434b6771a9fc98dfe7/HKTutoring.md">here</a>.
 
 # Unlockme
 A static promotional page and a fully functional app in ios and android using React Native. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/edd7866c6fbb4f0acba6b4434b6771a9fc98dfe7/Unlockme.md">here</a>.
