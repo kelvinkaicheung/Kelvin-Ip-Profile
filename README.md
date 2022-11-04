@@ -1,9 +1,10 @@
 # Kelvin-Ip-Profile
 
-Skill set: React(nextjs), React Native, Firebase, Mysql, Bootstrap, javascript, html ,css, native android
+Skill set: React(nextjs), React Native, nodejs, express, jest, Firebase, Mysql, tailwindcss, Bootstrap, typescript, javascript, html ,css, native android(Java+xml)
 <div>
 <img src="/React.svg" width="50"/>
 <img src="/Nextjs.svg" width="50"/>
+ 
 <img src="/firebase.svg" width="50"/>
 <img src="/mysql-logo.svg" width="50"/>
 <img src="/Bootstrap5.png" width="50"/>
