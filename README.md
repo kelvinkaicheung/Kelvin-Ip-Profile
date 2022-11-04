@@ -19,7 +19,8 @@ Skill set: React(nextjs), React Native, nodejs, express, jest, Firebase, Mysql, 
 </div>
 
 # memorytrace.tk
-A Typescript and Tailwind reactjs project. Fully functional with authentication, node and express REST Api, tested with jest.
+A Typescript and Tailwind reactjs project. Fully functional with authentication, node and express REST Api, tested with jest. Check it out <a 
+href="https://memorytrace.tk">here</a>
 <a href="https://memorytrace.tk"><img src="/memorytrace.png" /></a>
 
 # epicstreets.com
