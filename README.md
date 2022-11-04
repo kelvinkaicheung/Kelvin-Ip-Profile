@@ -9,7 +9,7 @@ Skill set: React(nextjs), React Native, nodejs, express, jest, Firebase, Mysql, 
 <img src="/jest.png" width="50">
 <img src="/firebase.svg" width="50"/>
 <img src="/mysql-logo.svg" width="50"/>
-<img src="/tailwindcss.svg width="100"/>
+<img src="/tailwindcss.svg" width="100"/>
 <img src="/Bootstrap5.png" width="50"/>
 <img src="/typescript.png" width="50"/>                                     
 <img src="/JS.png" width="50"/>
