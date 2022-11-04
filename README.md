@@ -18,6 +18,10 @@ Skill set: React(nextjs), React Native, nodejs, express, jest, Firebase, Mysql, 
 <img src="/NaiveAndroid.png" width="50"/>
 </div>
 
+# memorytrace.tk
+A Typescript and Tailwind reactjs project. Fully functional with authentication, node and express REST Api, tested with jest.
+<a href="https://memorytrace.tk"></a>
+
 # epicstreets.com
 A medium-sized project using React (Next.js), Mysql. Check it out <a href="https://github.com/kelvinkaicheung/Kelvin-Ip-Profile/blob/bc61970cdcc5e0a4ab9276d653551d69c629fc4c/epicstreets.md"> here </a>.
 
