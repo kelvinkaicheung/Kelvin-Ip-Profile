@@ -19,7 +19,7 @@ Skill set: React(nextjs), React Native, nodejs, express, jest, Firebase, Mysql, 
 </div>
 
 # exchange-biz.com
-A platform for business owner to sell their small businesses and team up with business partner.
+A platform for business owner to sell their small businesses and team up with business partner. The website is owned by ExchangeBiz limited.
 
 # memorytrace.tk
 A Typescript and Tailwind reactjs project. Fully functional with authentication, node and express REST Api, tested with jest. Check it out <a 
