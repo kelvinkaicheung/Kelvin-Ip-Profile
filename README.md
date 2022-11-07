@@ -18,6 +18,9 @@ Skill set: React(nextjs), React Native, nodejs, express, jest, Firebase, Mysql, 
 <img src="/NaiveAndroid.png" width="50"/>
 </div>
 
+# exchange-biz.com
+A platform for business owner to sell their small businesses and team up with business partner.
+
 # memorytrace.tk
 A Typescript and Tailwind reactjs project. Fully functional with authentication, node and express REST Api, tested with jest. Check it out <a 
 href="https://memorytrace.tk">here</a>
