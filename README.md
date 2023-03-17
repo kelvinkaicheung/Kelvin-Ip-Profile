@@ -19,16 +19,16 @@ Skill set: React(nextjs), React Native, nodejs, express, jest, Firebase, Mysql, 
 </div>
 
 # hkmigrate.com
-A free forum for Hong Kong emigrants.
-<a href="https://memorytrace.tk">hkmigrate.com</a>
+A free forum for Hong Kong emigrants. Check it out
+<a href="https://memorytrace.tk">here</a>.
 
 # exchange-biz.com
-A platform for business owner to sell their small businesses and team up with business partner. The website is owned by ExchangeBiz limited.
-<a href="https://exchange-biz.com">Exchange Biz limited</a>
+A platform for business owner to sell their small businesses and team up with business partner. The website is owned by ExchangeBiz limited. Check it out
+<a href="https://exchange-biz.com">here</a>.
 
 # memorytrace.tk
 A Typescript and Tailwind reactjs project. Fully functional with authentication, node and express REST Api, tested with jest. Check it out <a 
-href="https://memorytrace.tk">here</a>
+href="https://memorytrace.tk">here</a>.
 <a href="https://memorytrace.tk"><img src="/memorytrace.png" /></a>
 
 # epicstreets.com
