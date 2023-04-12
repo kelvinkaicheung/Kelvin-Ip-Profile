@@ -21,6 +21,7 @@ Skill set: React(nextjs), React Native, nodejs, express, jest, Firebase, Mysql, 
 # hkmigrate.com
 A free forum for Hong Kong emigrants. Check it out
 <a href="https://hkmigrate.com">here</a>.
+<a href="https://hkmigrate.com"><img src="/hkmigrate.gif" /></a>
 
 # exchange-biz.com
 A platform for business owner to sell their small businesses and team up with business partner. The website is owned by ExchangeBiz limited. Check it out
