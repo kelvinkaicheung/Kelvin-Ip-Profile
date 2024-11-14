@@ -49,6 +49,3 @@ A static promotional page and a fully functional app in ios and android using Re
 Phone/Whatsapp: +44 7769084317</div>
 <div>
 email: kelvinip2021@gmail.com</div>
-<div>
-Linked In: <a href="https://www.linkedin.com/in/kelvin-ip-a864a8235/" >https://www.linkedin.com/in/kelvin-ip-a864a8235/</a>
-  </div>
