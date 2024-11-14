@@ -46,6 +46,4 @@ A static promotional page and a fully functional app in ios and android using Re
 
 # Contact Me:
 <div>
-Phone/Whatsapp: +44 7769084317</div>
-<div>
-email: kelvinip2021@gmail.com</div>
+email: websummernow@gmail.com</div>
